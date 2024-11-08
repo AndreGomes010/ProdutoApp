@@ -1,0 +1,14 @@
+C:\ProdutoApp\ProdutoApp\ProdutoApp\bin\Debug\net8.0\ProdutoApp.exe
+C:\ProdutoApp\ProdutoApp\ProdutoApp\bin\Debug\net8.0\ProdutoApp.deps.json
+C:\ProdutoApp\ProdutoApp\ProdutoApp\bin\Debug\net8.0\ProdutoApp.runtimeconfig.json
+C:\ProdutoApp\ProdutoApp\ProdutoApp\bin\Debug\net8.0\ProdutoApp.dll
+C:\ProdutoApp\ProdutoApp\ProdutoApp\bin\Debug\net8.0\ProdutoApp.pdb
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.AssemblyInfoInputs.cache
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.AssemblyInfo.cs
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.csproj.CoreCompileInputs.cache
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.dll
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\refint\ProdutoApp.dll
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.pdb
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ProdutoApp.genruntimeconfig.cache
+C:\ProdutoApp\ProdutoApp\ProdutoApp\obj\Debug\net8.0\ref\ProdutoApp.dll
